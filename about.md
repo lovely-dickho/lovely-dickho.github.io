@@ -8,17 +8,8 @@ permalink: /about/
 
 <br>
 
-### Education
-
-- Seoul National University, Seoul, Republic of Korea [Mar 2021 - present]
-    - B.A. in Philosophy
-    - B.S. in Mathematical Sciences (double major)
-    - B.A. in Economics (double major) 
-
-<br>
-
 ### Academic Interests
-**Mathematics**: Dynamic Programming / Mathematical Learning Theory <br>
+**Mathematics**: Real Analysis / Functional Analysis / Topology  <br>
 **Economics**: Microeconomics / Econometrics 
 
 <br>
