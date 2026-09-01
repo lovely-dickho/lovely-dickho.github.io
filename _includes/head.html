@@ -1,0 +1,78 @@
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-55MV6Z54TT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-55MV6Z54TT');
+</script>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  {% include meta.html %}
+  {% include fonts.html %}
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
+
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  
+  <link rel="apple-touch-icon" sizes="57x57" href="/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  <script type="module">
+    document.querySelector('hy-push-state').addEventListener('load', () => {
+        let tocElement = document.getElementById("markdown-toc");
+  
+        if(tocElement){
+            let affixedDiv = document.createElement("div");
+            affixedDiv.style.position = "relative";
+            affixedDiv.style.top = "-1rem";
+            tocElement.parentNode.insertBefore(affixedDiv, tocElement);
+  
+            let headerList = document.getElementsByClassName("permalink");
+            let prevElement;
+            window.addEventListener("scroll", () => {
+                let hurdleTop = affixedDiv.getBoundingClientRect().top;
+                if(hurdleTop <= 0) tocElement.classList.add("affix");
+                else tocElement.classList.remove("affix");
+  
+                for(let i=0;i<headerList.length;i++){
+                    if(headerList[i].getBoundingClientRect().top >= 0){
+                    prevElement?.style.removeProperty("font-weight");
+                    let tocId = "markdown-toc-" + headerList[i].parentNode.id;
+                    prevElement = document.getElementById(tocId);
+                    prevElement.style.fontWeight = "bold";;
+  
+                    break;
+                    }
+                }
+            });
+        }
+    });
+    </script>
+
+</head>
