@@ -29,4 +29,4 @@ R, Python, Matlab, Stata, and LaTeX
 <br>
 
 ### Contact
-[jaeyoung.seo1128@gmail.com]](mailto:jaeyoung.seo1128@gmail.com)
+[jaeyoung.seo1128@gmail.com](mailto:jaeyoung.seo1128@gmail.com)
