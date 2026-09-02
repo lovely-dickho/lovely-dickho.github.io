@@ -9,9 +9,16 @@ minimal_mistakes_skin: "default"
 
 # 프로필 설정
 author:
-  name: "서재영 (Jae Young Seo)"
+  name: "Jae Young Seo"
   avatar: "https://github.com/lovely-dickho.png"
   bio: "Philosophy, Mathematics, and Economics"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jaeyoung.seo1128@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lovely-dickho"
 
 # 마크다운 및 플러그인 설정
 markdown: kramdown
@@ -33,3 +40,12 @@ defaults:
       layout: "single"
       mathjax: true
       author_profile: true
+
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "본인의_disqus_shortname"
+
+# 포스트 기본값에도 댓글 활성화 추가 (defaults 속성의 values 안에 추가)
+      comments: true
