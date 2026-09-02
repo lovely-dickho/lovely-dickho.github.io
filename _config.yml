@@ -47,9 +47,16 @@ defaults:
       mathjax: true
       author_profile: true
       comments: true
+      share: true      # 소셜 공유 버튼 활성화
+      related: true    # 하단 관련 글(참고) 목록 활성화
 
 # 구글 애널리틱스 설정
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-XXXXXXXX" # 발급받은 추적 ID 입력
+
+
+# 관련 글 출력 개수
+related:
+  count: 4
