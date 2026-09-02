@@ -1,0 +1,11 @@
+main:
+  - title: "Blog"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Notes"
+    url: /notes
+  - title: "Tags"
+    url: /tags
+  - title: "Categories"
+    url: /categories
