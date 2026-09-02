@@ -1,64 +1,30 @@
-# Site Settings
-locale: "ko-KR"
 title: "lovely_dickho"
-title_separator: "-"
-name: "lovely_dickho"
 description: "Philosophy, Mathematics, and Economics"
 url: "https://lovely-dickho.github.io"
 baseurl: ""
-repository: "lovely-dickho/lovely-dickho.github.io"
 
-# Theme Settings
+# 원격 테마 적용
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
-# Author
+# 프로필 설정
 author:
-  name: "lovely_dickho"
+  name: "서재영 (Jae Young Seo)"
   avatar: "https://github.com/lovely-dickho.png"
   bio: "Philosophy, Mathematics, and Economics"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jaeyoung.seo1128@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lovely-dickho"
 
-# Pagination
-paginate: 5
-paginate_path: /page:num/
-
-# Markdown & Highlighter
+# 마크다운 및 플러그인 설정
 markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-
-# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-toc
 
-# Exclude
-exclude:
-  - LICENSE
-  - README.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - vendor/bundle/
+paginate: 5
+paginate_path: /page:num/
 
-# Custom Variables
-custom_tag_order: "일반균형, 후생경제학, 미시경제학, 계량경제학"
-
+# 일반 포스트 기본 레이아웃 및 수식(MathJax) 활성화
 defaults:
   - scope:
       path: ""
@@ -66,3 +32,4 @@ defaults:
     values:
       layout: "single"
       mathjax: true
+      author_profile: true
