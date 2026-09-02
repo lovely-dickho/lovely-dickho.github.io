@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to lovely_dickho's blog"
 date: 2026-09-01 21:44:00 +0900
-categories: [General, Dairy]
+categories: [Dairy]
 tags: [Dairy]
 ---
 
