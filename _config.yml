@@ -60,3 +60,11 @@ analytics:
 # 관련 글 출력 개수
 related:
   count: 4
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
