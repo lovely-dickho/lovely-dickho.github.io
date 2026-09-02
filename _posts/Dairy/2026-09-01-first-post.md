@@ -2,6 +2,7 @@
 title: "Welcome to lovely_dickho's blog"
 categories: [Dairy]
 tags: [Dairy]
+last_modified_at: 2026-09-01
 ---
 
 ## 블로그를 시작하다
