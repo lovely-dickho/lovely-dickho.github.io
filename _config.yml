@@ -58,3 +58,11 @@ exclude:
 
 # Custom Variables
 custom_tag_order: "일반균형, 후생경제학, 미시경제학, 계량경제학"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      mathjax: true
