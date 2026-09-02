@@ -47,3 +47,9 @@ defaults:
       mathjax: true
       author_profile: true
       comments: true
+
+# 구글 애널리틱스 설정
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XXXXXXXX" # 발급받은 추적 ID 입력

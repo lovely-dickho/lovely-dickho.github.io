@@ -1,0 +1,11 @@
+---
+# Front Matter
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* 본문 글자 크기 조정 */
+.page__content {
+  font-size: 0.9em; /* 기본값보다 10% 작게 설정. 필요에 따라 0.85em, 0.8em 등으로 수정 */
+}
