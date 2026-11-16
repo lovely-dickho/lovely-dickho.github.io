@@ -1,8 +1,8 @@
 ---
-title: "[계량경제학] Asymptotic Theory"
+title: "[Econometrics] Asymptotic Theory"
 date: 2026-11-16 17:51:00 +0900
 categories: [Econometrics, Notes]
-tags: [점근이론, CLT, Slutsky, OLS, 계량경제학]
+tags: [점근이론, CLT, Slutsky, OLS]
 math: true
 toc: true
 ---
