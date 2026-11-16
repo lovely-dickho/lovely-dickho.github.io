@@ -28,6 +28,11 @@ comments:
 
 # 마크다운 및 플러그인 설정
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -55,7 +60,6 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-XXXXXXXX" # 발급받은 추적 ID 입력
-
 
 # 관련 글 출력 개수
 related:
