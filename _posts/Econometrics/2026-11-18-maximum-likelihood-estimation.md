@@ -279,7 +279,7 @@ $$
 
 이 joint PDF가 바로 likelihood function이다. $$\ln L(\theta)$$가 극대화되는 $$\theta$$를 찾는 것이 MLE 이다.
 
-![MLE 그림](/assets/img/posts/mle-figure.png){: w="600" }
+![MLE 그림](/Users/jaeyoung_seo/Documents/lovely-dickho.github.io/_posts/Econometrics/mle-figure.png){: w="600" }
 
 여기서 실제 $$\theta_0$$가 $$\theta^*$$라면 $$\theta^*$$와 $$\hat{\theta}$$ 사이의 거리도 가까울 것이고, 실제 $$\theta_0$$가 $$\theta^*$$가 아니라면 $$\theta^*$$와 $$\hat{\theta}$$ 사이의 거리는 멀어질 것이다. 즉, $$\hat{\theta}$$은 실제 $$\theta_0$$ 주위에 있기 때문에 $$\hat{\theta}$$와 $$\theta^*$$ 사이의 거리를 보고 test를 할 수 있는 것이다.
 
