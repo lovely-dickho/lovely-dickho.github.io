@@ -1,7 +1,7 @@
 ---
 title: "[독서노트] 에릭 홉스봄, 『제국의 시대』 하이라이트 정리"
 date: 2026-11-16 17:30:00 +0900
-categories: [Reading, History]
+categories: [Reading]
 tags: [홉스봄, 제국의시대, 장기19세기, 제국주의, 자유주의, 부르주아, 독서노트]
 toc: true
 ---
