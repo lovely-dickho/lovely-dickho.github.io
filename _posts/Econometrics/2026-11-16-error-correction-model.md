@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Error Correction Model"
 date: 2026-11-16 18:56:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [ECM, VECM, 공적분, Granger]
 math: true
 toc: true

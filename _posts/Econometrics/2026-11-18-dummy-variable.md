@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Dummy Variable"
 date: 2026-11-18 16:21:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [더미변수, Chow Test, DID, 처치효과, 루빈 인과모형]
 math: true
 toc: true

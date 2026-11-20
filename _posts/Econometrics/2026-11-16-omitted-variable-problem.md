@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Omitted Variable Problem"
 date: 2026-11-16 17:56:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [OVP, 누락변수, 측정오차, Hausman, RESET, Chow]
 math: true
 toc: true

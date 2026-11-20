@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Vector AutoRegression"
 date: 2026-11-16 19:00:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [VAR, Granger, 충격반응, 분산분해]
 math: true
 toc: true

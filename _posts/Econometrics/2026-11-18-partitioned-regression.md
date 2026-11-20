@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Partitioned Regression"
 date: 2026-11-18 16:20:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [OLS, FWL, 분할회귀, 잔차생성행렬]
 math: true
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Panel Data"
 date: 2026-11-16 18:58:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [패널, 고정효과, 확률효과, Hausman, Mundlak]
 math: true
 toc: true

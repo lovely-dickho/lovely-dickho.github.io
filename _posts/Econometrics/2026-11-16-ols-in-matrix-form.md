@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] OLS in Matrix Form"
 date: 2026-11-16 17:50:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [OLS, GLS, FWL, 행렬]
 math: true
 toc: true

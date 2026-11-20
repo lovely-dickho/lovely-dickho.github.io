@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] ARCH and GARCH"
 date: 2026-11-16 18:55:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [ARCH, GARCH, 변동성, TARCH, EGARCH]
 math: true
 toc: true

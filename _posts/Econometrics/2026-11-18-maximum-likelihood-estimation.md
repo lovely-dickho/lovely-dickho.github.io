@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Maximum Likelihood Estimation"
 date: 2026-11-18 12:24:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [MLE, LR, Wald, LM, Fisher Information, CRLB]
 math: true
 toc: true

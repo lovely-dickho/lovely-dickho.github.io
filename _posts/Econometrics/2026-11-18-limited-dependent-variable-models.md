@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Limited Dependent Variable Models"
 date: 2026-11-18 12:22:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [LPM, Probit, Logit, Tobit, 다항로짓, 서열선다형]
 math: true
 toc: true

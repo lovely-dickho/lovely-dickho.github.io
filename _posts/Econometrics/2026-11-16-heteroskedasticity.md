@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Heteroskedasticity"
 date: 2026-11-16 17:57:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [이분산성, White, GQ, BPG, WLS]
 math: true
 toc: true

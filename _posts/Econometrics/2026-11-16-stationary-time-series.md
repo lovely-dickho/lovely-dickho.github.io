@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Stationary Time Series"
 date: 2026-11-16 18:59:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [정상성, AR, MA, ARMA, Yule-Walker, Wold]
 math: true
 toc: true

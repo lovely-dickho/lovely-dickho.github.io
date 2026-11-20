@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Non-Stationarity"
 date: 2026-11-16 18:57:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [비정상성, 단위근, ADF, 가성회귀, 랜덤워크]
 math: true
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Simultaneous Equations Models"
 date: 2026-11-18 12:25:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [연립방정식, 식별, 2SLS, ILS]
 math: true
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Instrumental Variable"
 date: 2026-11-18 12:23:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [IV, 내생성, 도구변수, 약한 도구변수]
 math: true
 toc: true

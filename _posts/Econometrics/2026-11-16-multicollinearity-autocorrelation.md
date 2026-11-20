@@ -1,7 +1,7 @@
 ---
 title: "[Econometrics] Multicollinearity and Autocorrelation"
 date: 2026-11-16 17:55:00 +0900
-categories: [Econometrics, Notes]
+categories: [Econometrics]
 tags: [다중공선성, 자기상관, Durbin-Watson, Breusch-Godfrey, Ljung-Box]
 math: true
 toc: true
